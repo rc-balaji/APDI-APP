@@ -1,0 +1,5 @@
+INSERT INTO users (name, email, password, dob, gender, state, country, phone, role)
+VALUES ('Admin', 'admin@gmail.com', 'admin@123', '1990-01-01', 'Male', 'TN', 'IND', '1234567890', 'admin');
+
+INSERT INTO users (name, email, password, dob, gender, state, country, phone, role)
+VALUES ('SubAdmin', 'subadmin@gmail.com', 'subadmin@123', '1990-01-01', 'Female', 'TN', 'IND', '1234567890', 'subadmin');
